@@ -1,20 +1,24 @@
 # miniradio
-Mini radio with arduino and si4703
 
-Dependencies:
-Si4703_Breakout
+## Mini radio with arduino and si4703
 
-Pins for si4703
+### Dependencies:
+* Si4703_Breakout
 
-PIN  -> ARDUINO PIN
-* RST  -> 2
-* SDIO -> A4
-* SCLK -> A5
 
-Pullup buttons pins
+### Pins for si4703
 
-PIN         -> ARDUINO PIN
-* SeekUp      -> 6
-* SeekDown    -> 7
-* VolumeUp    -> 8
-* VolumeDown  -> 9
+PIN | ARDUINO PIN
+----|----
+RST | 2
+SDIO | A4
+SCLK | A5
+
+### Pullup buttons pins
+
+PIN | ARDUINO PIN
+----|----
+SeekUp | 6
+SeekDown | 7
+VolumeUp | 8
+VolumeDown | 9
