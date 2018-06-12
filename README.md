@@ -5,14 +5,16 @@ Dependencies:
 Si4703_Breakout
 
 Pins for si4703
+
 PIN  -> ARDUINO PIN
-RST  -> 2
-SDIO -> A4
-SCLK -> A5
+* RST  -> 2
+* SDIO -> A4
+* SCLK -> A5
 
 Pullup buttons pins
+
 PIN         -> ARDUINO PIN
-SeekUp      -> 6
-SeekDown    -> 7
-VolumeUp    -> 8
-VolumeDown  -> 9
+* SeekUp      -> 6
+* SeekDown    -> 7
+* VolumeUp    -> 8
+* VolumeDown  -> 9
