@@ -1,6 +1,6 @@
 # miniradio
 
-## Mini radio with arduino and si4703
+Mini radio with arduino and si4703
 
 ### Dependencies:
 * Si4703_Breakout
